@@ -9,7 +9,7 @@ public class Ceiling extends Block {
         super(Properties.of()
                 .mapColor(MapColor.COLOR_YELLOW)
                 .strength(-1.0f, 3600000.0f)
-                .sound(SoundType.WOOL)
+                .sound(SoundType.CHERRY_WOOD)
         );
     }
 }
