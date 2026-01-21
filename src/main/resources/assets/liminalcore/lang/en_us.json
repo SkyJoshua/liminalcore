@@ -1,5 +1,14 @@
 {
   "creativetab.liminalcore": "Liminal Core",
-  "block.liminalcore.wallpaper1": "Wallpaper"
-
+  "block.liminalcore.wallpaper1": "Wallpaper",
+  "block.liminalcore.wallpaper2": "Wallpaper",
+  "block.liminalcore.wallpaper3": "Wallpaper",
+  "block.liminalcore.wallpaper4": "Wallpaper",
+  "block.liminalcore.wallpaper5": "Wallpaper",
+  "block.liminalcore.wallpaper6": "Wallpaper",
+  "block.liminalcore.wallpaper7": "Wallpaper",
+  "block.liminalcore.carpet": "Carpet",
+  "block.liminalcore.redcarpet": "Red Carpet",
+  "block.liminalcore.ceiling": "Ceiling",
+  "block.liminalcore.ceiling2": "Ceiling"
 }

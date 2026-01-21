@@ -21,6 +21,16 @@ public class ModCreativeTabs {
             .icon(() -> ModBlocks.WALLPAPER1.get().asItem().getDefaultInstance())
             .displayItems((params, output) -> {
                 output.accept(ModBlocks.WALLPAPER1.get());
+                output.accept(ModBlocks.WALLPAPER2.get());
+                output.accept(ModBlocks.WALLPAPER3.get());
+                output.accept(ModBlocks.WALLPAPER4.get());
+                output.accept(ModBlocks.WALLPAPER5.get());
+                output.accept(ModBlocks.WALLPAPER6.get());
+                output.accept(ModBlocks.WALLPAPER7.get());
+                output.accept(ModBlocks.CARPET.get());
+                output.accept(ModBlocks.REDCARPET.get());
+                output.accept(ModBlocks.CEILING.get());
+                output.accept(ModBlocks.CEILING2.get());
             })
             .build()
     );
