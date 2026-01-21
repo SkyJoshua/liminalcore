@@ -11,7 +11,6 @@ import xyz.skyjoshua.liminalcore.registry.ModBlocks;
 import xyz.skyjoshua.liminalcore.registry.ModCreativeTabs;
 import xyz.skyjoshua.liminalcore.registry.ModItems;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(LiminalCore.MODID)
 public class LiminalCore {
 
@@ -37,3 +36,4 @@ public class LiminalCore {
         }
     }
 }
+

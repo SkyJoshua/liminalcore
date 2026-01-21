@@ -4,8 +4,8 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.material.MapColor;
 
-public class False_Carpet extends Block {
-    public False_Carpet() {
+public class False_Ceiling extends Block {
+    public False_Ceiling() {
         super(Properties.of()
                 .mapColor(MapColor.COLOR_YELLOW)
                 .noCollission()

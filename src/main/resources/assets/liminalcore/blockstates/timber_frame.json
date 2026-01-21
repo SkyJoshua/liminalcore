@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": {
+      "model":  "liminalcore:block/timber_frame",
+      "y": 0,
+      "X": 0
+    }
+  }
+}

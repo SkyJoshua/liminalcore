@@ -12,5 +12,13 @@
   "block.liminalcore.ceiling": "Ceiling",
   "block.liminalcore.ceiling_white": "Ceiling",
   "block.liminalcore.false_carpet": "Carpet",
-  "block.liminalcore.false_wallpaper": "Wallpaper"
+  "block.liminalcore.false_wallpaper": "Wallpaper",
+  "block.liminalcore.false_ceiling": "Ceiling",
+  "block.liminalcore.timber_frame": "Timber Frame",
+  "block.liminalcore.fake_wallpaper": "Fake Wallpaper",
+  "block.liminalcore.fake_carpet": "Fake Carpet",
+  "block.liminalcore.fake_ceiling": "Fake Ceiling",
+
+  "item.liminalcore.cut_wallpaper": "Cut Wallpaper",
+  "item.liminalcore.cut_carpet": "Cut Carpet"
 }

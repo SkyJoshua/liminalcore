@@ -33,7 +33,13 @@ public class ModCreativeTabs {
                 output.accept(ModBlocks.CEILING_WHITE.get());
                 output.accept(ModBlocks.FALSE_CARPET.get());
                 output.accept(ModBlocks.FALSE_WALLPAPER.get());
+                output.accept(ModBlocks.FALSE_CEILING.get());
+                output.accept(ModBlocks.FAKE_CARPET.get());
+                output.accept(ModBlocks.FAKE_WALLPAPER.get());
+                output.accept(ModBlocks.FAKE_CEILING.get());
 
+                output.accept(ModItems.CUT_WALLPAPER.get());
+                output.accept(ModItems.CUT_CARPET.get());
 
                 if (!LiminalCore.HAS_SUPPLEMENTARIES) {
                     output.accept(ModBlocks.TIMBER_FRAME.get());

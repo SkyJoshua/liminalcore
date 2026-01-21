@@ -25,8 +25,14 @@ public class ModItems {
     public static final RegistryObject<Item> CEILING_WHITE = ITEMS.register("ceiling_white", () -> new BlockItem(ModBlocks.CEILING_WHITE.get(), new Item.Properties()));
     public static final RegistryObject<Item> FALSE_CARPET = ITEMS.register("false_carpet", () -> new BlockItem(ModBlocks.FALSE_CARPET.get(), new Item.Properties()));
     public static final RegistryObject<Item> FALSE_WALLPAPER = ITEMS.register("false_wallpaper", () -> new BlockItem(ModBlocks.FALSE_WALLPAPER.get(), new Item.Properties()));
-
+    public static final RegistryObject<Item> FALSE_CEILING = ITEMS.register("false_ceiling", () -> new BlockItem(ModBlocks.FALSE_CEILING.get(), new Item.Properties()));
+    public static final RegistryObject<Item> FAKE_CARPET = ITEMS.register("fake_carpet", () -> new BlockItem(ModBlocks.FAKE_CARPET.get(), new Item.Properties()));
+    public static final RegistryObject<Item> FAKE_WALLPAPER = ITEMS.register("fake_wallpaper", () -> new BlockItem(ModBlocks.FAKE_WALLPAPER.get(), new Item.Properties()));
+    public static final RegistryObject<Item> FAKE_CEILING = ITEMS.register("fake_ceiling", () -> new BlockItem(ModBlocks.FAKE_CEILING.get(), new Item.Properties()));
     public static RegistryObject<Item> TIMBER_FRAME;
+
+    public static final RegistryObject<Item> CUT_WALLPAPER = ITEMS.register("cut_wallpaper", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CUT_CARPET = ITEMS.register("cut_carpet", () -> new Item(new Item.Properties()));
 
     static {
         if (!LiminalCore.HAS_SUPPLEMENTARIES) {

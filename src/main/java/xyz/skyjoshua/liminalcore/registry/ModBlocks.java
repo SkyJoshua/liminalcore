@@ -25,7 +25,10 @@ public class ModBlocks {
     public static final RegistryObject<Block> CEILING_WHITE = BLOCKS.register("ceiling_white", Ceiling_White::new);
     public static final RegistryObject<Block> FALSE_CARPET = BLOCKS.register("false_carpet", False_Carpet::new);
     public static final RegistryObject<Block> FALSE_WALLPAPER = BLOCKS.register("false_wallpaper", False_Wallpaper::new);
-
+    public static final RegistryObject<Block> FALSE_CEILING = BLOCKS.register("false_ceiling", False_Ceiling::new);
+    public static final RegistryObject<Block> FAKE_CARPET = BLOCKS.register("fake_carpet", Fake_Carpet::new);
+    public static final RegistryObject<Block> FAKE_WALLPAPER = BLOCKS.register("fake_wallpaper", Fake_Wallpaper::new);
+    public static final RegistryObject<Block> FAKE_CEILING = BLOCKS.register("fake_ceiling", Fake_Ceiling::new);
     public static RegistryObject<Block> TIMBER_FRAME;
 
     static {

@@ -10,6 +10,7 @@ public class Timber_Frame extends Block {
                 .mapColor(MapColor.COLOR_BROWN)
                 .strength(0.0f, 3.0f)
                 .sound(SoundType.WOOL)
+                .noOcclusion()
         );
     }
 }

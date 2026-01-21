@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
     "top": "liminalcore:block/red_carpet",
-    "bottom": "liminalcore:block/ceiling2",
+    "bottom": "liminalcore:block/ceiling_white",
     "side": "liminalcore:block/wallpaper_white"
   }
 }
