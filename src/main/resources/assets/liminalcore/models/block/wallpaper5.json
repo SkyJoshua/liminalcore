@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "liminalcore:block/redcarpet",
-    "bottom": "liminalcore:block/ceiling2",
-    "side": "liminalcore:block/wallpaper5"
-  }
-}

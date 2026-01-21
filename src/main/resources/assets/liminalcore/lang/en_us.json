@@ -1,14 +1,16 @@
 {
   "creativetab.liminalcore": "Liminal Core",
-  "block.liminalcore.wallpaper1": "Wallpaper",
-  "block.liminalcore.wallpaper2": "Wallpaper",
-  "block.liminalcore.wallpaper3": "Wallpaper",
-  "block.liminalcore.wallpaper4": "Wallpaper",
-  "block.liminalcore.wallpaper5": "Wallpaper",
-  "block.liminalcore.wallpaper6": "Wallpaper",
-  "block.liminalcore.wallpaper7": "Wallpaper",
+  "block.liminalcore.wallpaper": "Wallpaper",
+  "block.liminalcore.wallpaper_bigsquares": "Wallpaper",
+  "block.liminalcore.wallpaper_squares": "Wallpaper",
+  "block.liminalcore.wallpaper_blank": "Wallpaper",
+  "block.liminalcore.wallpaper_white": "Wallpaper",
+  "block.liminalcore.wallpaper_wavey": "Wallpaper",
+  "block.liminalcore.wallpaper_pink": "Wallpaper",
   "block.liminalcore.carpet": "Carpet",
-  "block.liminalcore.redcarpet": "Red Carpet",
+  "block.liminalcore.red_carpet": "Red Carpet",
   "block.liminalcore.ceiling": "Ceiling",
-  "block.liminalcore.ceiling2": "Ceiling"
+  "block.liminalcore.ceiling_white": "Ceiling",
+  "block.liminalcore.false_carpet": "Carpet",
+  "block.liminalcore.false_wallpaper": "Wallpaper"
 }
